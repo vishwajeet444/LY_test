@@ -1,5 +1,5 @@
 # LY_test
-This repo is for testing the Frontend for project
+This repo is for testing and creating the Frontend for project
 
 Create a file same as working.html and write down your contect in that.
 
